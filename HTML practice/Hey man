@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <title> TDDY PRACTICE </title>
+    </head>
+
+    <body>
+        <button onclick="document.write('<p>Welcome</p>');"> 
+            HEY MAN
+        </button>
+
+
+
+        
+    </body>
+</html>
